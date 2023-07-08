@@ -13,8 +13,11 @@ CommunitySteamNode is a project initiated by a group of programmers and Dota 2 e
 Our node packages offer several features and functionalities related to Steam and Dota 2. Here are the key packages we provide:
 
 ``@communitysteamnode/steam-crypto``: A package that offers cryptographic utilities specifically designed for Steam-related operations.
+
 ``@communitysteamnode/node-steam-resources``: A package that provides access to various resources and data related to Steam.
+
 ``@communitysteamnode/node-dota2``: A package that enables interaction with the Dota 2 game, allowing you to retrieve game data, perform game actions, and more.
+
 ``@communitysteamnode/node-steam``: A package that allows you to interact with the Steam platform, including user authentication, trading, and other Steam-related functionalities.
 
 These packages are designed to simplify the development process and enhance the capabilities of applications and projects related to Steam and Dota 2.
