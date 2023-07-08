@@ -54,10 +54,10 @@ This package is provided under the MIT License. Feel free to modify and use it i
 
 ## Acknowledgements
 
-([node-steam-crypto])(<https://github.com/seishun/node-steam-crypto>) by Seishun. As Seishun does not maintain the package anymore, we have taken the responsibility to keep it up to date.
+``node-steam-crypto``: (<https://github.com/seishun/node-steam-crypto>) by Seishun. As Seishun does not maintain the package anymore, we have taken the responsibility to keep it up to date.
 
-([node-steam-resources])(<https://github.com/seishun/node-steam-resources>) by Seishun. As Seishun does not maintain the package anymore, we have taken the responsibility to keep it up to date.
+``node-steam-resources``: (<https://github.com/seishun/node-steam-resources>) by Seishun. As Seishun does not maintain the package anymore, we have taken the responsibility to keep it up to date.
 
-([node-steam])(<https://github.com/seishun/node-steam>) by Seishun. As Seishun does not maintain the package anymore, we have taken the responsibility to keep it up to date.
+``node-steam``: (<https://github.com/seishun/node-steam>) by Seishun. As Seishun does not maintain the package anymore, we have taken the responsibility to keep it up to date.
 
-([node-dota2])(<https://github.com/Arcana/node-dota2>) by Arcana. As Arcana does not maintain the package anymore, we have taken the responsibility to keep it up to date.
+``node-dota2``: (<https://github.com/Arcana/node-dota2>) by Arcana. As Arcana does not maintain the package anymore, we have taken the responsibility to keep it up to date.
